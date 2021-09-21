@@ -11,6 +11,7 @@ namespace check_odd_even
 {
     public class Program
     {
+        //check even and odd number
         public static void Main(string[] args)
         {
             int num1, rem1;
